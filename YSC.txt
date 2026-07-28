@@ -1,6 +1,6 @@
 📰大陆新闻,#genre#
-CCTV13,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV13,http://192.151.150.154/live/cctv13hd.m3u8
+CCTV13,http://107.150.60.122/live/cctv13hd.m3u8
 CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV13,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
@@ -197,8 +197,6 @@ THE WEATHER CHANNEL,https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5
 MTV news HD,http://media4.tripsmarter.com:1935/LiveTV/MTVHD/chunklist_w225310352.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 BNC news,https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
-Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-Bloomberg 4K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg Europe,https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 Bloomberg Event,https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 CBS News National,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
