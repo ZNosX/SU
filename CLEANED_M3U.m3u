@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.zsdc.eu.org/t.xml.gz" url-tvg="http://epg.51zmt.top:8000/e2.xml.gz" url-tvg="https://iptv-epg.org/files/epg-hk.xml.gz" url-tvg="https://iptv-epg.org/files/epg-tw.xml.gz" url-tvg="https://iptv-epg.org/files/epg-us.xml.gz" url-tvg="https://iptv-epg.org/files/epg-ca.xml.gz" url-tvg="https://iptv-epg.org/files/epg-au.xml.gz" url-tvg="https://iptv-epg.org/files/epg-gb.xml.gz" url-tvg="https://iptv-epg.org/files/epg-sg.xml.gz" url-tvg="https://raw.githubusercontent.com/fanmingming/live/main/e.xml" url-tvg="https://epg.pw/xmltv/epg_JP.xml" url-tvg="https://epg.pw/xmltv/epg_KR.xml" url-tvg="https://epg.pw/xmltv/epg_FR.xml" url-tvg="https://epg.pw/xmltv/epg_DE.xml" url-tvg="https://epg.pw/xmltv/epg_ES.xml"
+#EXTM3U url-tvg="https://epg.zsdc.eu.org/t.xml.gz" url-tvg="http://epg.51zmt.top:8000/e2.xml.gz" url-tvg="https://raw.githubusercontent.com/fanmingming/live/main/e.xml" url-tvg="https://iptv-epg.org/files/epg-tw.xml.gz" url-tvg="https://epg.pw/xmltv/epg_JP.xml" url-tvg="https://iptv-org.github.io/epg/guides/us.xml.gz" url-tvg="https://iptv-org.github.io/epg/guides/ca.xml.gz" url-tvg="https://iptv-org.github.io/epg/guides/hk.xml.gz" url-tvg="https://iptv-org.github.io/epg/guides/kr.xml.gz" url-tvg="https://iptv-org.github.io/epg/guides/fr.xml.gz" url-tvg="https://iptv-org.github.io/epg/guides/de.xml.gz" url-tvg="https://iptv-org.github.io/epg/guides/es.xml.gz" url-tvg="https://iptv-org.github.io/epg/guides/uk.xml.gz" url-tvg="https://iptv-org.github.io/epg/guides/sg.xml.gz" url-tvg="https://iptv-org.github.io/epg/guides/eu.xml.gz"
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="📰大陆新闻" resolution="" speed="",CCTV13
 http://t.061899.xyz/tl/tl.php?id=cctv13
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="📰大陆新闻" resolution="1920x1056" speed="1973",CCTV13
@@ -391,13 +391,13 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
 http://206.212.244.63/66/index.m3u8
 #EXTINF:-1 tvg-id="CNNBusiness" tvg-name="CNN Business" group-title="📰美国新闻" resolution="" speed="1302",CNN Business
 https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnmoneyhevc-lgbr/playlist.m3u8
-#EXTINF:-1 tvg-id="C-SPAN" tvg-name="C-SPAN" group-title="📰美国新闻" resolution="960x528" speed="403",C-SPAN
+#EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="C-SPAN" group-title="📰美国新闻" resolution="960x528" speed="403",C-SPAN
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/31396
 #EXTINF:-1 tvg-id="THEWEATHERCHANNEL" tvg-name="THE WEATHER CHANNEL" group-title="📰美国新闻" resolution="1280x720" speed="777",THE WEATHER CHANNEL
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/3.m3u8
 #EXTINF:-1 tvg-id="MTVnewsHD" tvg-name="MTV news HD" group-title="📰美国新闻" resolution="1280x720" speed="272",MTV news HD
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/chunklist_w225310352.m3u8
-#EXTINF:-1 tvg-id="WionNews" tvg-name="WionNews" group-title="📰美国新闻" resolution="1920x1056" speed="752",WionNews
+#EXTINF:-1 tvg-id="WionNews.us" tvg-name="WionNews" group-title="📰美国新闻" resolution="1920x1056" speed="752",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="BNCnews" tvg-name="BNC news" group-title="📰美国新闻" resolution="1920x1056" speed="1015",BNC news
 https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
@@ -407,7 +407,7 @@ https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia" tvg-name="CNBC Asia" group-title="📰美国新闻" resolution="1920x1056" speed="1588",CNBC Asia
 http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8?proxy=true
-#EXTINF:-1 tvg-id="CNBC-e" tvg-name="CNBC-e" group-title="📰美国新闻" resolution="1920x1056" speed="1910",CNBC-e
+#EXTINF:-1 tvg-id="CNBC-e.us" tvg-name="CNBC-e" group-title="📰美国新闻" resolution="1920x1056" speed="1910",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-name="CNN Brasil" group-title="📰美国新闻" resolution="" speed="1389",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
@@ -467,11 +467,11 @@ http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="FRANCENEWS(EN)" tvg-name="FRANCE NEWS(EN)" group-title="📰国际新闻" resolution="1280x720" speed="1996",FRANCE NEWS(EN)
 https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCEarthUK" tvg-name="BBCEarthUK" group-title="📰国际新闻" resolution="1920x1056" speed="1699",BBCEarthUK
+#EXTINF:-1 tvg-id="BBCEarthUK.uk" tvg-name="BBCEarthUK" group-title="📰国际新闻" resolution="1920x1056" speed="1699",BBCEarthUK
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/4f4fa83d-b516-44fb-b501-1f1e1f575d97/0.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="📰国际新闻" resolution="1920x1056" speed="6489",CGTN
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" group-title="📰国际新闻" resolution="1920x1056" speed="6489",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURONEWS" group-title="📰国际新闻" resolution="1280x720" speed="1975",EURONEWS
+#EXTINF:-1 tvg-id="EURONEWS.eu" tvg-name="EURONEWS" group-title="📰国际新闻" resolution="1280x720" speed="1975",EURONEWS
 https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="FREESPEECHTV" tvg-name="FREE SPEECH TV" group-title="📰国际新闻" resolution="1280x720" speed="888",FREE SPEECH TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
@@ -491,13 +491,13 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 tvg-id="TheWeatherNetworkCA" tvg-name="TheWeatherNetwork Canada" group-title="📰加拿大新闻" resolution="1920x1056" speed="1752",TheWeatherNetwork Canada
 https://amg01442-pelmorexcorp-theweathernetwork-lgca-f0v2i.amagi.tv/ts-us-e2-n1/playlist/amg01442-pelmorexcorp-theweathernetwork-lgca/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d8eb3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a54a1a9d7e41e6d341d4d61cead2c95a9f15876bf9409b92ed898214d0819635ac50b06051026317f7817d808759b3cc936a3c917023436c3a8ccea8da6b0aaf646663d5dee09a58a550a4e624857379ba10885c903f986ebf1bab933ecac380fe72710697f074530295d78cb7a14a59d067ffb1a7c8606c8bff027944d01fb6484703a5cef424b6ea23b7951ab8ee127753c19556d59ca293e1b1804fee49a0adcfb90d72714d252fa360f8db07b528d96be6cf03314a4856be935acaf4b6345d596eb6b061e236298af2a4ade25449a0071a5efb2ed55a111eab5e0947c900cda7661ce3400b812673f24847e628988305c59a819f6c50b4dad40cfc60fabb1ec0ef70c2075562219cc7026b7775408aad0c62317dd00be0d6dce8740c0de3f3c8f2b22352690233773aa2c1c24fb6a1e40c312b9b234c06751404d811d71bb96a2d3b1be82389ed631a84023263e2a22954596982d1a184f5b9a0298e5bf6f9d41a0a046d5a8d16387c2ab9da8c5dee765f7f685a851b6547cf733030d1a1e8d7bea55aefb85b8b144e3b54e0d42a1b7d381b620e88de6fd34ef0e175d3fdf17be8dfbf2f1ffb56cf00148d9ede79f6e98dc2460be2c43d755cb6e317fa5118e933f80eb5880db2dc54020f72444dd48757fa56bdadf7ad40a10888792a5dcf4792b8dee9ad0c3de695597d3a0f54036642735e60d2b0ee4d265ad3881ed678dbb116c32d55372c09d986104c85e7790f993b6a12d5caa5b08aee3322f54ddb5bfa452d926a575c8bab39ee90fcfafc861d336abc8d826a9a9cd2f9a6bbcb226d45683f95ce4b4672d42a82eb6d84963952dcb4b9e5b016fff449a8d9fed41bd77ecdfeb207ba9599bec863164a5f448eb99d983afaccc7c12619a12003178e9eecb444f6dfae0e7beb2780cf673ce856f63ab8283eff6c6b38c419537fb4ea9c2e600a61aa900711cd36ae233332d2c5886d3ac8cc35422cf180da0056850412e5080b2ffc3cb2aabe6a66efa81c1359b64b2e826381c499715871eebd5565124d5d45368015637bad7e4bb50abee1d5b46a0b8715c55a6ce837fc9417ef8924dadee8bfeee9316ea2b72b13f104e842f900c6cb80f53deb0235ff26c15432e88f9ccdc9eac6a5c6904b094fd817cd7ba71cfee99ad14d746d2b8e306a1f17ab6784616f749bcb52c6a23f09a7ceed0fc67c39660a063fc21cfed155677663b1a41ab9d879697d6320e2a154e1f3d5f0cc38fa11be2c62b4dd46123a594b5558e06e0921/26/1920x1080_8048040/index.m3u8
-#EXTINF:-1 tvg-id="Global News Calgary" tvg-name="Global News Calgary" group-title="📰加拿大新闻" resolution="" speed="",Global News Calgary
+#EXTINF:-1 tvg-id="Global News Calgary.ca" tvg-name="Global News Calgary" group-title="📰加拿大新闻" resolution="" speed="",Global News Calgary
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/.m3u8
-#EXTINF:-1 tvg-id="Global News Edmonton" tvg-name="Global News Edmonton" group-title="📰加拿大新闻" resolution="" speed="",Global News Edmonton
+#EXTINF:-1 tvg-id="Global News Edmonton.ca" tvg-name="Global News Edmonton" group-title="📰加拿大新闻" resolution="" speed="",Global News Edmonton
 https://live.corusdigitaldev.com/groupb/live/215422c9-d1b9-4009-aaca-32e403f22b01/live.isml/.m3u8
-#EXTINF:-1 tvg-id="Global News Lethbridge" tvg-name="Global News Lethbridge" group-title="📰加拿大新闻" resolution="" speed="",Global News Lethbridge
+#EXTINF:-1 tvg-id="Global News Lethbridge.ca" tvg-name="Global News Lethbridge" group-title="📰加拿大新闻" resolution="" speed="",Global News Lethbridge
 https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc0/live.isml/.m3u8
-#EXTINF:-1 tvg-id="Global News Okanagan" tvg-name="Global News Okanagan" group-title="📰加拿大新闻" resolution="" speed="",Global News Okanagan
+#EXTINF:-1 tvg-id="Global News Okanagan.ca" tvg-name="Global News Okanagan" group-title="📰加拿大新闻" resolution="" speed="",Global News Okanagan
 https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TVBJade.hk" tvg-name="翡翠台" group-title="🇭🇰香港频道" resolution="1920x1056" speed="2040",翡翠台
 http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
@@ -531,17 +531,17 @@ https://cdn6.cc.cd/163189/fhhk
 http://rihou.cc:555/tv/[Pd]%E5%87%A4%E5%87%B0%E9%A6%99%E6%B8%AF
 #EXTINF:-1 tvg-id="新加坡中文台" tvg-name="新加坡中文台" group-title="🇭🇰香港频道" resolution="1280x720" speed="1885",新加坡中文台
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" group-title="🇭🇰香港频道" resolution="1920x1056" speed="2142",CNA
+#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" group-title="🇭🇰香港频道" resolution="1920x1056" speed="2142",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF8%E3%80%8F
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" group-title="🇭🇰香港频道" resolution="1920x1056" speed="1410",CNA
+#EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA" group-title="🇭🇰香港频道" resolution="1920x1056" speed="1410",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="有线综合" tvg-name="HOY77" group-title="🇭🇰香港频道" resolution="1920x1056" speed="1242",HOY77
 http://rihou.cc:555/tv/[Pd]%E6%9C%89%E7%BA%BF%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-id="HOY77.hk" tvg-name="HOY77" group-title="🇭🇰香港频道" resolution="1920x1056" speed="1809",HOY77
 https://cdn6.cc.cd/163189/hoy
-#EXTINF:-1 tvg-id="KTSF26" tvg-name="KTSF26" group-title="🇭🇰香港频道" resolution="1920x1056" speed="1230",KTSF26
+#EXTINF:-1 tvg-id="KTSF26.us" tvg-name="KTSF26" group-title="🇭🇰香港频道" resolution="1920x1056" speed="1230",KTSF26
 http://38.64.72.148/hls/modn/list/4026/chunklist1.m3u8
-#EXTINF:-1 tvg-id="KTSF26" tvg-name="KTSF26" group-title="🇭🇰香港频道" resolution="1920x1056" speed="749",KTSF26
+#EXTINF:-1 tvg-id="KTSF26.us" tvg-name="KTSF26" group-title="🇭🇰香港频道" resolution="1920x1056" speed="749",KTSF26
 http://38.64.72.148/hls/modn/list/4026/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVB J1" group-title="🇭🇰香港频道" resolution="1920x1056" speed="2076",TVB J1
 https://cdn6.cc.cd/163189/j1
@@ -555,11 +555,11 @@ http://rihou.cc:555/tv/[Pd]Plus%E7%BB%BC%E5%90%88
 https://cdn3.indevs.in/stream/tvb/tvbp/
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVB Plus" group-title="🇭🇰香港频道" resolution="1920x1056" speed="1539",TVB Plus
 http://cdn3.123.rr.kg/stream/tvb/tvbp/
-#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" group-title="🇭🇰香港频道" resolution="1920x1056" speed="1947",TVB1
+#EXTINF:-1 tvg-id="TVB1.hk" tvg-name="TVB1" group-title="🇭🇰香港频道" resolution="1920x1056" speed="1947",TVB1
 https://cdn6.cc.cd/163189/tvb1
-#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" group-title="🇭🇰香港频道" resolution="1920x1056" speed="1439",TVB1
+#EXTINF:-1 tvg-id="TVB1.hk" tvg-name="TVB1" group-title="🇭🇰香港频道" resolution="1920x1056" speed="1439",TVB1
 https://cdn.qd.je/163189.php?id=tvb1
-#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" group-title="🇭🇰香港频道" resolution="1920x1056" speed="958",TVB1
+#EXTINF:-1 tvg-id="TVB1.hk" tvg-name="TVB1" group-title="🇭🇰香港频道" resolution="1920x1056" speed="958",TVB1
 http://cdn6.123.rr.kg/163189/tvb1
 #EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" group-title="🇭🇰香港频道" resolution="1920x1056" speed="2059",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
@@ -575,9 +575,9 @@ http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E6%98%9F%E6%B2%B3
 https://cdn6.cc.cd/163189/yzwx
 #EXTINF:-1 tvg-id="TVB娱乐新闻" tvg-name="TVB娱乐新闻" group-title="🇭🇰香港频道" resolution="1920x1056" speed="2054",TVB娱乐新闻
 https://cdn6.cc.cd/163189/ylxw
-#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" group-title="🇭🇰香港频道" resolution="1920x1056" speed="1392",VIUTV
+#EXTINF:-1 tvg-id="VIUTV.hk" tvg-name="VIUTV" group-title="🇭🇰香港频道" resolution="1920x1056" speed="1392",VIUTV
 https://cdn.123.rr.kg/163189/viu
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="VIUTV" group-title="🇭🇰香港频道" resolution="" speed="1997",VIUTV
+#EXTINF:-1 tvg-id="VIUTV.hk" tvg-name="VIUTV" group-title="🇭🇰香港频道" resolution="" speed="1997",VIUTV
 https://cdn.qd.je/163189.php?id=viu
 #EXTINF:-1 tvg-id="中旺电视" tvg-name="中旺电视" group-title="🇭🇰香港频道" resolution="1920x1056" speed="2170",中旺电视
 http://38.64.72.148/hls/modn/list/4010/playlist.m3u8
@@ -683,57 +683,57 @@ http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" group-title="🇹🇼台湾频道" resolution="" speed="",纬来育乐
 rtmp://f13h.mine.nu/sat/tv701
-#EXTINF:-1 tvg-id="NBC" tvg-name="NBC" group-title="🇺🇸美国频道" resolution="1920x1056" speed="1154",NBC
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" group-title="🇺🇸美国频道" resolution="1920x1056" speed="1154",NBC
 http://41.205.93.154/NBC/index.m3u8
-#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" group-title="🇺🇸美国频道" resolution="1920x1056" speed="808",ABC
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="ABC" group-title="🇺🇸美国频道" resolution="1920x1056" speed="808",ABC
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 #EXTINF:-1 tvg-id="PBSMPT" tvg-name="PBS TV" group-title="🇺🇸美国频道" resolution="1920x1088" speed="693",PBS TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" group-title="🇺🇸美国频道" resolution="1920x1056" speed="1292",TBS
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" group-title="🇺🇸美国频道" resolution="1920x1056" speed="1292",TBS
 http://41.205.93.154/TBS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="USANetwork" tvg-name="USANetwork" group-title="🇺🇸美国频道" resolution="" speed="1850",USANetwork
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USANetwork" group-title="🇺🇸美国频道" resolution="" speed="1850",USANetwork
 http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="HallmarkChannel" tvg-name="HallmarkChannel" group-title="🇺🇸美国频道" resolution="1920x1056" speed="938",HallmarkChannel
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="HallmarkChannel" group-title="🇺🇸美国频道" resolution="1920x1056" speed="938",HallmarkChannel
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" group-title="🇺🇸美国频道" resolution="1920x1056" speed="1836",Syfy
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="Syfy" group-title="🇺🇸美国频道" resolution="1920x1056" speed="1836",Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" group-title="🇺🇸美国频道" resolution="1280x720" speed="1975",FX
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" group-title="🇺🇸美国频道" resolution="1280x720" speed="1975",FX
 http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" group-title="🇺🇸美国频道" resolution="1280x720" speed="788",FX
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX" group-title="🇺🇸美国频道" resolution="1280x720" speed="788",FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral" tvg-name="ComedyCentral" group-title="🇺🇸美国频道" resolution="1920x1056" speed="380",ComedyCentral
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="ComedyCentral" group-title="🇺🇸美国频道" resolution="1920x1056" speed="380",ComedyCentral
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" group-title="🇺🇸美国频道" resolution="1280x720" speed="1309",LIFETIME
+#EXTINF:-1 tvg-id="LIFETIME.us" tvg-name="LIFETIME" group-title="🇺🇸美国频道" resolution="1280x720" speed="1309",LIFETIME
 http://41.205.93.154/LIFETIME/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CMT" tvg-name="CMT" group-title="🇺🇸美国频道" resolution="1920x1056" speed="347",CMT
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" group-title="🇺🇸美国频道" resolution="1920x1056" speed="347",CMT
 http://cord-cutter.net:8080/96082340/96082340/46706
-#EXTINF:-1 tvg-id="GameShowNetwork" tvg-name="GameShowNetwork" group-title="🇺🇸美国频道" resolution="1280x720" speed="708",GameShowNetwork
+#EXTINF:-1 tvg-id="GameShowNetwork.us" tvg-name="GameShowNetwork" group-title="🇺🇸美国频道" resolution="1280x720" speed="708",GameShowNetwork
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10404
-#EXTINF:-1 tvg-id="HallmarkMystery" tvg-name="HallmarkMystery" group-title="🇺🇸美国频道" resolution="1920x1056" speed="224",HallmarkMystery
+#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="HallmarkMystery" group-title="🇺🇸美国频道" resolution="1920x1056" speed="224",HallmarkMystery
 http://ad8147ee.cbilant.com/iptv/ZUGHA6ZCCHRXMQB594EQKPDE/1075/index.m3u8
-#EXTINF:-1 tvg-id="FXX" tvg-name="FXX" group-title="🇺🇸美国频道" resolution="1280x720" speed="2017",FXX
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX" group-title="🇺🇸美国频道" resolution="1280x720" speed="2017",FXX
 http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Fuse" tvg-name="Fuse" group-title="🇺🇸美国频道" resolution="1920x1056" speed="337",Fuse
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" group-title="🇺🇸美国频道" resolution="1920x1056" speed="337",Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 tvg-id="LMN" tvg-name="LMN" group-title="🇺🇸美国频道" resolution="1920x1056" speed="1222",LMN
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="LMN" group-title="🇺🇸美国频道" resolution="1920x1056" speed="1222",LMN
 http://23.237.104.106:8080/USA_LMN/index.m3u8
-#EXTINF:-1 tvg-id="BUZZR" tvg-name="BUZZR" group-title="🇺🇸美国频道" resolution="1920x1056" speed="2186",BUZZR
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="BUZZR" group-title="🇺🇸美国频道" resolution="1920x1056" speed="2186",BUZZR
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSKET2" tvg-name="PBS KET2" group-title="🇺🇸美国频道" resolution="1280x720" speed="790",PBS KET2
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
-#EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" group-title="🇺🇸美国频道" resolution="1280x720" speed="1272",BRAVO
+#EXTINF:-1 tvg-id="BRAVO.us" tvg-name="BRAVO" group-title="🇺🇸美国频道" resolution="1280x720" speed="1272",BRAVO
 http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BRAVO" tvg-name="BRAVO" group-title="🇺🇸美国频道" resolution="1280x720" speed="1146",BRAVO
+#EXTINF:-1 tvg-id="BRAVO.us" tvg-name="BRAVO" group-title="🇺🇸美国频道" resolution="1280x720" speed="1146",BRAVO
 http://41.205.93.154/BRAVO/index.m3u8
-#EXTINF:-1 tvg-id="CWForever" tvg-name="CWForever" group-title="🇺🇸美国频道" resolution="1920x1056" speed="2132",CWForever
+#EXTINF:-1 tvg-id="CWForever.us" tvg-name="CWForever" group-title="🇺🇸美国频道" resolution="1920x1056" speed="2132",CWForever
 https://d1sknsnbkyvie.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sbcl5hxexbihh/38ec3205-dcc5-4c0f-a047-917eb2054891/0.m3u8
-#EXTINF:-1 tvg-id="CWGold" tvg-name="CWGold" group-title="🇺🇸美国频道" resolution="1920x1056" speed="2047",CWGold
+#EXTINF:-1 tvg-id="CWGold.us" tvg-name="CWGold" group-title="🇺🇸美国频道" resolution="1920x1056" speed="2047",CWGold
 https://d1d726ny1vain2.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-femoe55fvrdvc/3bef8470-bcb1-49b1-a816-0737fa4c27cd/0.m3u8
-#EXTINF:-1 tvg-id="FX2" tvg-name="FX2" group-title="🇺🇸美国频道" resolution="1280x720" speed="100",FX2
+#EXTINF:-1 tvg-id="FX2.us" tvg-name="FX2" group-title="🇺🇸美国频道" resolution="1280x720" speed="100",FX2
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PBSKETLouisvilleKY(WKMJ-TV)" tvg-name="PBS KET Louisville KY (WKMJ-TV)" group-title="🇺🇸美国频道" resolution="1280x720" speed="1420",PBS KET Louisville KY (WKMJ-TV)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
-#EXTINF:-1 tvg-id="TVA" tvg-name="TVA" group-title="🇺🇸美国频道" resolution="1280x720" speed="1802",TVA
+#EXTINF:-1 tvg-id="TVA.us" tvg-name="TVA" group-title="🇺🇸美国频道" resolution="1280x720" speed="1802",TVA
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 #EXTINF:-1 tvg-id="WETV" tvg-name="WE TV" group-title="🇺🇸美国频道" resolution="1920x1056" speed="1681",WE TV
 http://23.237.104.106:8080/USA_WE_TV/tracks-v1a1/mono.m3u8
@@ -743,7 +743,7 @@ https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/maste
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="Global Toronto" tvg-name="Global Toronto" group-title="🇨🇦加拿大频道" resolution="" speed="",Global Toronto
 https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8
-#EXTINF:-1 tvg-id="Global BC" tvg-name="Global BC" group-title="🇨🇦加拿大频道" resolution="" speed="",Global BC
+#EXTINF:-1 tvg-id="Global BC.ca" tvg-name="Global BC" group-title="🇨🇦加拿大频道" resolution="" speed="",Global BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
 #EXTINF:-1 tvg-id="GlobalMontreal" tvg-name="Global Montreal" group-title="🇨🇦加拿大频道" resolution="1280x720" speed="1578",Global Montreal
 https://live.corusdigitaldev.com/groupa/live/6bfb7f13-9d9d-4211-9c50-fb56330e4ccd/live.isml/.m3u8
@@ -783,17 +783,17 @@ https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smi
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="GUGAKTV" tvg-name="GUGAK TV" group-title="🇰🇷韩国频道" resolution="1920x1056" speed="1850",GUGAK TV
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Tomato" tvg-name="Tomato" group-title="🇰🇷韩国频道" resolution="1280x720" speed="1713",Tomato
+#EXTINF:-1 tvg-id="Tomato.kr" tvg-name="Tomato" group-title="🇰🇷韩国频道" resolution="1280x720" speed="1713",Tomato
 http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="BTNTV" tvg-name="BTN TV" group-title="🇰🇷韩国频道" resolution="1920x1056" speed="1866",BTN TV
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 tvg-id="GCN" tvg-name="GCN" group-title="🇰🇷韩国频道" resolution="1280x720" speed="1382",GCN
+#EXTINF:-1 tvg-id="GCN.kr" tvg-name="GCN" group-title="🇰🇷韩国频道" resolution="1280x720" speed="1382",GCN
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GSShop" tvg-name="GS Shop" group-title="🇰🇷韩国频道" resolution="1280x720" speed="1843",GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" group-title="🇰🇷韩国频道" resolution="1280x720" speed="1046",KCTV
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-name="KCTV" group-title="🇰🇷韩国频道" resolution="1280x720" speed="1046",KCTV
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
-#EXTINF:-1 tvg-id="KCTV" tvg-name="KCTV" group-title="🇰🇷韩国频道" resolution="1280x720" speed="582",KCTV
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-name="KCTV" group-title="🇰🇷韩国频道" resolution="1280x720" speed="582",KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w1668602111.m3u8
 #EXTINF:-1 tvg-id="NBS韓國農業廣播" tvg-name="NBS 韓國農業廣播" group-title="🇰🇷韩国频道" resolution="1280x720" speed="1622",NBS 韓國農業廣播
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
@@ -851,9 +851,9 @@ https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
 https://edge17.vedge.infomaniak.com/livecast/ik:onefmhd/chunklist_w904225566.m3u8
 #EXTINF:-1 tvg-id="ETVGUADELOUPE" tvg-name="ETV GUADELOUPE" group-title="🇫🇷法国频道" resolution="1920x1072" speed="196",ETV GUADELOUPE
 https://edge15.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
-#EXTINF:-1 tvg-id="FashionTVFR" tvg-name="FashionTVFR" group-title="🇫🇷法国频道" resolution="1920x1056" speed="1823",FashionTVFR
+#EXTINF:-1 tvg-id="FashionTVFR.fr" tvg-name="FashionTVFR" group-title="🇫🇷法国频道" resolution="1920x1056" speed="1823",FashionTVFR
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-id="France24EnglishFR" tvg-name="France24EnglishFR" group-title="🇫🇷法国频道" resolution="1920x1056" speed="989",France24EnglishFR
+#EXTINF:-1 tvg-id="France24EnglishFR.fr" tvg-name="France24EnglishFR" group-title="🇫🇷法国频道" resolution="1920x1056" speed="989",France24EnglishFR
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/ts-eu-w1-n2/playlist/amg00106-france24-france24-samsunguk/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d88b3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a54a1ac32640b28210d4804fb9d2c95a9f15866ba0469893ed8c82178b8e9167ab5fe3645c025c17f4817d808749b5e5897d2b957f2f34733f8db8a7dd710fb2756a72dfe291cf0f9612ca9a6b826f27ab01ea2cee51da31d963c0e04ab3e3bfd6463351cea240511489c1bdd0835f54bc62e8ecedd3670ef49c7f6373e85fff071f17a0c9d64ec4a97b97b230cbb5790d07c49e489a94bcf181dae151bd15faf8d0b71063674d1958fa37ce9b69c867dc68b8f11d20514836c1f03fdfa7e96e0f4c6eaba543e61371c1b30a28426c41a85528188555d7521169c8745f68e439fc894e14e34424a445f07fc557fa2fd2b73ee1af9bc40b3ea7d7c443850fa5d558949e8ace1cbf9cf917b2ac7d6535e5e36da3f62441630f8bf2c7e4650003edb8eef6c9503900362d836de1f7ca7f8187cc251c59941d76203c3d16950dd87dd013415b6ee010c7a90534a807226dc9947f651a3dc6f7e0d4b8818304946fc3c3f80e2a39726aa97c5075399de5db19b513634a5771cc4f684ab6021a65ef96c2ead0c04dc68e6ba73d2d453796be470f591c2323399a9669c557adc64eeed5990abe80e7766ab67c9b7377cf80e33dadd2d6bd0865f68d5816609bd655a0523dd71bd151e5f178cabf58035c710067f1ce6cbd389dda89cc3f953ca72c522cbc98da334d437c0085f00e405e43b055085b3498677cda25/126/1920x1080_6046040/index.m3u8
 #EXTINF:-1 tvg-id="GÉNÉRATIONSTV" tvg-name="GÉNÉRATIONS TV" group-title="🇫🇷法国频道" resolution="1280x720" speed="298",GÉNÉRATIONS TV
 https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
@@ -867,7 +867,7 @@ https://static.lefigaro.fr/secom/tnt.m3u8
 https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
 #EXTINF:-1 tvg-id="PUISSANCETÉLÉVISION" tvg-name="PUISSANCE TÉLÉVISION" group-title="🇫🇷法国频道" resolution="1920x1056" speed="339",PUISSANCE TÉLÉVISION
 https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-#EXTINF:-1 tvg-id="ProSiebenDE" tvg-name="ProSiebenDE" group-title="🇩🇪德国频道" resolution="1920x1056" speed="482",ProSiebenDE
+#EXTINF:-1 tvg-id="ProSiebenDE.de" tvg-name="ProSiebenDE" group-title="🇩🇪德国频道" resolution="1920x1056" speed="482",ProSiebenDE
 http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/302225
 #EXTINF:-1 tvg-id="BILLIARDTV" tvg-name="BILLIARD TV" group-title="🇩🇪德国频道" resolution="1920x1056" speed="2258",BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
@@ -885,13 +885,13 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
 #EXTINF:-1 tvg-id="DELUXEMUSICLoungeExtra" tvg-name="DELUXE MUSIC Lounge Extra" group-title="🇩🇪德国频道" resolution="1280x720" speed="590",DELUXE MUSIC Lounge Extra
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
-#EXTINF:-1 tvg-id="DELUXEDEUTSCHPOPDE" tvg-name="DELUXEDEUTSCHPOPDE" group-title="🇩🇪德国频道" resolution="1280x720" speed="669",DELUXEDEUTSCHPOPDE
+#EXTINF:-1 tvg-id="DELUXEDEUTSCHPOPDE.de" tvg-name="DELUXEDEUTSCHPOPDE" group-title="🇩🇪德国频道" resolution="1280x720" speed="669",DELUXEDEUTSCHPOPDE
 https://jmp2.uk/stvp-DEBA150003050
-#EXTINF:-1 tvg-id="DELUXELOUNGEDE" tvg-name="DELUXELOUNGEDE" group-title="🇩🇪德国频道" resolution="1280x720" speed="639",DELUXELOUNGEDE
+#EXTINF:-1 tvg-id="DELUXELOUNGEDE.de" tvg-name="DELUXELOUNGEDE" group-title="🇩🇪德国频道" resolution="1280x720" speed="639",DELUXELOUNGEDE
 https://jmp2.uk/stvp-DEAH3904006A
-#EXTINF:-1 tvg-id="DELUXEMUSICDE" tvg-name="DELUXEMUSICDE" group-title="🇩🇪德国频道" resolution="1024x576" speed="586",DELUXEMUSICDE
+#EXTINF:-1 tvg-id="DELUXEMUSICDE.de" tvg-name="DELUXEMUSICDE" group-title="🇩🇪德国频道" resolution="1024x576" speed="586",DELUXEMUSICDE
 http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31307/index.m3u8
-#EXTINF:-1 tvg-id="DELUXEWINTERTIMEDE" tvg-name="DELUXEWINTERTIMEDE" group-title="🇩🇪德国频道" resolution="1280x720" speed="666",DELUXEWINTERTIMEDE
+#EXTINF:-1 tvg-id="DELUXEWINTERTIMEDE.de" tvg-name="DELUXEWINTERTIMEDE" group-title="🇩🇪德国频道" resolution="1280x720" speed="666",DELUXEWINTERTIMEDE
 https://jmp2.uk/stvp-DE340000678
 #EXTINF:-1 tvg-id="CNNEspañol" tvg-name="CNN Español" group-title="🇪🇸西语频道" resolution="1920x1056" speed="1298",CNN Español
 https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
@@ -909,9 +909,9 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-id="SOLMÙSICA" tvg-name="SOL MÙSICA" group-title="🇪🇸西语频道" resolution="1280x720" speed="1863",SOL MÙSICA
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 tvg-id="XITENuevoLatino" tvg-name="XITENuevoLatino" group-title="🇪🇸西语频道" resolution="1920x1056" speed="1636",XITENuevoLatino
+#EXTINF:-1 tvg-id="XITENuevoLatino.es" tvg-name="XITENuevoLatino" group-title="🇪🇸西语频道" resolution="1920x1056" speed="1636",XITENuevoLatino
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/075ea560-48b3-46ee-a540-4652a11b6496/3.m3u8
-#EXTINF:-1 tvg-id="XITESiempreLatino" tvg-name="XITESiempreLatino" group-title="🇪🇸西语频道" resolution="1920x1056" speed="1974",XITESiempreLatino
+#EXTINF:-1 tvg-id="XITESiempreLatino.es" tvg-name="XITESiempreLatino" group-title="🇪🇸西语频道" resolution="1920x1056" speed="1974",XITESiempreLatino
 https://jmp2.uk/stvp-USBD3300010L9
 #EXTINF:-1 tvg-id="RTESPAÑOL" tvg-name="RT ESPAÑOL" group-title="🇪🇸西语频道" resolution="1920x1056" speed="1799",RT ESPAÑOL
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -921,17 +921,17 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="24HCANARIAS" tvg-name="24 H CANARIAS" group-title="🇪🇸西语频道" resolution="1280x720" speed="1485",24 H CANARIAS
 https://ztnr.rtve.es/ztnr/5473142.m3u8
-#EXTINF:-1 tvg-id="8NTV" tvg-name="8NTV" group-title="🇪🇸西语频道" resolution="1280x720" speed="2109",8NTV
+#EXTINF:-1 tvg-id="8NTV.es" tvg-name="8NTV" group-title="🇪🇸西语频道" resolution="1280x720" speed="2109",8NTV
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/chunklist_w1861214848.m3u8
-#EXTINF:-1 tvg-id="AMX" tvg-name="AMX" group-title="🇪🇸西语频道" resolution="1280x720" speed="2132",AMX
+#EXTINF:-1 tvg-id="AMX.es" tvg-name="AMX" group-title="🇪🇸西语频道" resolution="1280x720" speed="2132",AMX
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w697787921.m3u8
 #EXTINF:-1 tvg-id="ANTENATV" tvg-name="ANTENA TV" group-title="🇪🇸西语频道" resolution="1920x1056" speed="782",ANTENA TV
 https://5ca9af4645e15.streamlock.net/grd/videogrd/chunklist_w1153073548.m3u8
 #EXTINF:-1 tvg-id="ARAGÓNTV" tvg-name="ARAGÓN TV" group-title="🇪🇸西语频道" resolution="1280x720" speed="713",ARAGÓN TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-#EXTINF:-1 tvg-id="AlcanceTV" tvg-name="AlcanceTV" group-title="🇪🇸西语频道" resolution="1280x720" speed="527",AlcanceTV
+#EXTINF:-1 tvg-id="AlcanceTV.es" tvg-name="AlcanceTV" group-title="🇪🇸西语频道" resolution="1280x720" speed="527",AlcanceTV
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/chunklist_w379604704.m3u8
-#EXTINF:-1 tvg-id="CALIFORNIA" tvg-name="CALIFORNIA" group-title="🇪🇸西语频道" resolution="1280x720" speed="1560",CALIFORNIA
+#EXTINF:-1 tvg-id="CALIFORNIA.es" tvg-name="CALIFORNIA" group-title="🇪🇸西语频道" resolution="1280x720" speed="1560",CALIFORNIA
 https://s5.mexside.net:1936/medios/medios/chunklist_w1114252121.m3u8
 #EXTINF:-1 tvg-id="CANAL10" tvg-name="CANAL 10" group-title="🇪🇸西语频道" resolution="1920x1056" speed="2375",CANAL 10
 https://5ca3e84a76d30.streamlock.net/tves/videotves/chunklist_w1384525160.m3u8
@@ -953,7 +953,7 @@ https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/chunklis
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 #EXTINF:-1 tvg-id="CusanoItaliaTV" tvg-name="Cusano Italia TV" group-title="🇪🇸西语频道" resolution="1920x1056" speed="278",Cusano Italia TV
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DanceTVEDMMainstageNL" tvg-name="DanceTVEDMMainstageNL" group-title="🇪🇸西语频道" resolution="1920x1056" speed="184",DanceTVEDMMainstageNL
+#EXTINF:-1 tvg-id="DanceTVEDMMainstageNL.es" tvg-name="DanceTVEDMMainstageNL" group-title="🇪🇸西语频道" resolution="1920x1056" speed="184",DanceTVEDMMainstageNL
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 #EXTINF:-1 tvg-id="EITB1" tvg-name="EITB 1" group-title="🇪🇸西语频道" resolution="1920x1056" speed="1585",EITB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
@@ -971,7 +971,7 @@ https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
 #EXTINF:-1 tvg-id="JFVTV" tvg-name="JFV TV" group-title="🇪🇸西语频道" resolution="1280x720" speed="1279",JFV TV
 https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="JUSTICIA" tvg-name="JUSTICIA" group-title="🇪🇸西语频道" resolution="1280x720" speed="2234",JUSTICIA
+#EXTINF:-1 tvg-id="JUSTICIA.es" tvg-name="JUSTICIA" group-title="🇪🇸西语频道" resolution="1280x720" speed="2234",JUSTICIA
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/chunklist.m3u8
 #EXTINF:-1 tvg-id="KissKissItaliaTV" tvg-name="Kiss Kiss Italia TV" group-title="🇪🇸西语频道" resolution="1280x720" speed="1276",Kiss Kiss Italia TV
 https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
@@ -979,9 +979,9 @@ https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
 https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="MadeinBOTV" tvg-name="MadeinBO TV" group-title="🇪🇸西语频道" resolution="1920x1056" speed="333",MadeinBO TV
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Nayarittv" tvg-name="Nayarittv" group-title="🇪🇸西语频道" resolution="1920x1056" speed="970",Nayarittv
+#EXTINF:-1 tvg-id="Nayarittv.es" tvg-name="Nayarittv" group-title="🇪🇸西语频道" resolution="1920x1056" speed="970",Nayarittv
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
-#EXTINF:-1 tvg-id="Nuevetv" tvg-name="Nuevetv" group-title="🇪🇸西语频道" resolution="1920x1056" speed="1779",Nuevetv
+#EXTINF:-1 tvg-id="Nuevetv.es" tvg-name="Nuevetv" group-title="🇪🇸西语频道" resolution="1920x1056" speed="1779",Nuevetv
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/chunklist_w405752872.m3u8
 #EXTINF:-1 tvg-id="RADIOKISSKISSTV" tvg-name="RADIO KISS KISS TV" group-title="🇪🇸西语频道" resolution="1280x720" speed="508",RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
@@ -993,7 +993,7 @@ https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 #EXTINF:-1 tvg-id="Rai1" tvg-name="Rai 1" group-title="🇪🇸西语频道" resolution="1280x720" speed="262",Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai4KIT" tvg-name="Rai4KIT" group-title="🇪🇸西语频道" resolution="" speed="530",Rai4KIT
+#EXTINF:-1 tvg-id="Rai4KIT.es" tvg-name="Rai4KIT" group-title="🇪🇸西语频道" resolution="" speed="530",Rai4KIT
 http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/266559
 #EXTINF:-1 tvg-id="STARTVE(espana)" tvg-name="STAR TVE (espana)" group-title="🇪🇸西语频道" resolution="1920x1056" speed="4884",STAR TVE (espana)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
@@ -1041,7 +1041,7 @@ https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/chunklist_w
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w951764249_b978000_sleng.m3u8
 #EXTINF:-1 tvg-id="TVPOBREGON" tvg-name="TVP OBREGON" group-title="🇪🇸西语频道" resolution="1920x1072" speed="2111",TVP OBREGON
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w878195131_b978000_sleng.m3u8
-#EXTINF:-1 tvg-id="TeleArena" tvg-name="TeleArena" group-title="🇪🇸西语频道" resolution="1280x720" speed="1256",TeleArena
+#EXTINF:-1 tvg-id="TeleArena.es" tvg-name="TeleArena" group-title="🇪🇸西语频道" resolution="1280x720" speed="1256",TeleArena
 https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ULOSLAGOSTV" tvg-name="U LOS LAGOS TV" group-title="🇪🇸西语频道" resolution="1920x1072" speed="858",U LOS LAGOS TV
 https://tv.ulagos.cl/web/live.m3u8
@@ -1049,7 +1049,7 @@ https://tv.ulagos.cl/web/live.m3u8
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w681770629_b478000_sleng.m3u8
 #EXTINF:-1 tvg-id="ULTRATVPUEBLA" tvg-name="ULTRA TV PUEBLA" group-title="🇪🇸西语频道" resolution="1280x720" speed="2080",ULTRA TV PUEBLA
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/chunklist_w1213766304_b478000_sleng.m3u8
-#EXTINF:-1 tvg-id="UTV" tvg-name="UTV" group-title="🇪🇸西语频道" resolution="1920x1056" speed="1193",UTV
+#EXTINF:-1 tvg-id="UTV.es" tvg-name="UTV" group-title="🇪🇸西语频道" resolution="1920x1056" speed="1193",UTV
 https://v2.tustreaming.cl/utv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="VCLASSIC" tvg-name="V CLASSIC" group-title="🇪🇸西语频道" resolution="1920x1056" speed="1438",V CLASSIC
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w665818677.m3u8
@@ -1063,7 +1063,7 @@ https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="italia2" tvg-name="italia 2" group-title="🇪🇸西语频道" resolution="1280x720" speed="1511",italia 2
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
-#EXTINF:-1 tvg-id="mexiquense" tvg-name="mexiquense" group-title="🇪🇸西语频道" resolution="1280x720" speed="1772",mexiquense
+#EXTINF:-1 tvg-id="mexiquense.es" tvg-name="mexiquense" group-title="🇪🇸西语频道" resolution="1280x720" speed="1772",mexiquense
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w1557282801.m3u8
 #EXTINF:-1 tvg-id="CCTV-5体育" tvg-name="CCTV5" group-title="⚽中文体育" resolution="1280x720" speed="877",CCTV5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
@@ -1211,7 +1211,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93729&uid=15301&deviceMac=00:1A:79:1D:53
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="BahrainSports2" tvg-name="Bahrain Sports 2" group-title="⚽其他体育" resolution="1280x720" speed="193",Bahrain Sports 2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX-SPORTS" tvg-name="FOX-SPORTS" group-title="⚽其他体育" resolution="1920x1056" speed="2096",FOX-SPORTS
+#EXTINF:-1 tvg-id="FOX-SPORTS.us" tvg-name="FOX-SPORTS" group-title="⚽其他体育" resolution="1920x1056" speed="2096",FOX-SPORTS
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 #EXTINF:-1 tvg-id="GOLFN" tvg-name="GOLF N" group-title="⚽其他体育" resolution="1280x720" speed="1736",GOLF N
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
@@ -1219,13 +1219,13 @@ https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
 #EXTINF:-1 tvg-id="NSPORT" tvg-name="N SPORT" group-title="⚽其他体育" resolution="1920x1056" speed="1145",N SPORT
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
-#EXTINF:-1 tvg-id="NFL_NETWORK" tvg-name="NFL_NETWORK" group-title="⚽其他体育" resolution="1920x1056" speed="699",NFL_NETWORK
+#EXTINF:-1 tvg-id="NFL_NETWORK.us" tvg-name="NFL_NETWORK" group-title="⚽其他体育" resolution="1920x1056" speed="699",NFL_NETWORK
 http://23.237.104.106:8080/USA_NFL_NETWORK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NHLNETWORK" tvg-name="NHL NETWORK" group-title="⚽其他体育" resolution="1920x1056" speed="2056",NHL NETWORK
 https://nhl-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportsItalia" tvg-name="Sports Italia" group-title="⚽其他体育" resolution="1920x1056" speed="1684",Sports Italia
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SportsGrid" tvg-name="SportsGrid" group-title="⚽其他体育" resolution="1920x1056" speed="1724",SportsGrid
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-name="SportsGrid" group-title="⚽其他体育" resolution="1920x1056" speed="1724",SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportyNet1" tvg-name="Sporty Net 1" group-title="⚽其他体育" resolution="1280x720" speed="921",Sporty Net 1
 http://91.218.50.136/negrobussula/032998177444/973563
@@ -1241,7 +1241,7 @@ http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRACESPORTS" tvg-name="TRACE SPORTS" group-title="⚽其他体育" resolution="1920x1056" speed="1280",TRACE SPORTS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="UFC" tvg-name="UFC" group-title="⚽其他体育" resolution="1920x1056" speed="1777",UFC
+#EXTINF:-1 tvg-id="UFC.us" tvg-name="UFC" group-title="⚽其他体育" resolution="1920x1056" speed="1777",UFC
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="UFCH" tvg-name="UFC H" group-title="⚽其他体育" resolution="1920x1056" speed="1795",UFC H
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
@@ -1255,7 +1255,7 @@ http://nocable.cc:8080//OURTV/OURTV@4806/35244
 http://nocable.cc:8080//OURTV/OURTV@4806/35240
 #EXTINF:-1 tvg-id="XFOXSPORTS" tvg-name="X FOXSPORTS" group-title="⚽其他体育" resolution="720x576" speed="537",X FOXSPORTS
 http://168.205.87.198:8555/live/1350/123456/309.m3u8
-#EXTINF:-1 tvg-id="astroaodtv" tvg-name="astroaodtv" group-title="⚽其他体育" resolution="1920x1056" speed="2101",astroaodtv
+#EXTINF:-1 tvg-id="astroaodtv.us" tvg-name="astroaodtv" group-title="⚽其他体育" resolution="1920x1056" speed="2101",astroaodtv
 http://rihou.cc:555/tv/[Pd]astroaod
 #EXTINF:-1 tvg-id="daznringside" tvg-name="dazn ringside" group-title="⚽其他体育" resolution="1920x1056" speed="822",dazn ringside
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
@@ -1539,13 +1539,13 @@ https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001020/index.m3
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001348/index.m3u8?streamid=37d60172a2bbb0d41f072d29213e6264&streamkey=06Au6xOXDlDEaapIVa7cpJhfzHs3AaqeIMjrUSQi1ZhQNbtlQYu45U2p26oN78H5M54F7fWWjiWa5JbgizqfzftqDt06P5Nj3CWuFMU3yFOgiX5n&token=1776221467-8fa99b3b879bacd8-0-b09602326b577119089417591328a91d
 #EXTINF:-1 tvg-id="CETV早期教育" tvg-name="CETV早期教育" group-title="📺中文综合" resolution="" speed="739",CETV早期教育
 https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001680/index.m3u8?streamid=2c224135515a11c735f7351c17434a62&streamkey=070kmnWlSO6tVzLyh1sXZ20iCOCRLXoHmCsz0IqkkXJJD0eYMb2A5kwULwbki6Baf4Z2bJfsbp07kt5WoqgWvFeVzbkW96tGU7nFRu0brwnn5lybIRJA&token=1776221300-cf453e64c67843de-0-4539fce56dec116202db007052b0029c
-#EXTINF:-1 tvg-id="DanceTVDeepHouseDistrictNL" tvg-name="DanceTVDeepHouseDistrictNL" group-title="📺中文综合" resolution="1920x1056" speed="310",DanceTVDeepHouseDistrictNL
+#EXTINF:-1 tvg-id="DanceTVDeepHouseDistrictNL.us" tvg-name="DanceTVDeepHouseDistrictNL" group-title="📺中文综合" resolution="1920x1056" speed="310",DanceTVDeepHouseDistrictNL
 https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-id="DanceTVMinimalTechNL" tvg-name="DanceTVMinimalTechNL" group-title="📺中文综合" resolution="1920x1056" speed="181",DanceTVMinimalTechNL
+#EXTINF:-1 tvg-id="DanceTVMinimalTechNL.us" tvg-name="DanceTVMinimalTechNL" group-title="📺中文综合" resolution="1920x1056" speed="181",DanceTVMinimalTechNL
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
-#EXTINF:-1 tvg-id="DanceTVNL" tvg-name="DanceTVNL" group-title="📺中文综合" resolution="1920x1056" speed="358",DanceTVNL
+#EXTINF:-1 tvg-id="DanceTVNL.us" tvg-name="DanceTVNL" group-title="📺中文综合" resolution="1920x1056" speed="358",DanceTVNL
 https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="ViceTV" tvg-name="ViceTV" group-title="📺中文综合" resolution="1920x1056" speed="2030",ViceTV
+#EXTINF:-1 tvg-id="ViceTV.us" tvg-name="ViceTV" group-title="📺中文综合" resolution="1920x1056" speed="2030",ViceTV
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-id="上虞新商都" tvg-name="上虞新商都" group-title="📺中文综合" resolution="1920x1056" speed="19307",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed\r\n
@@ -1847,13 +1847,13 @@ http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="CookingChannel" tvg-name="Cooking Channel" group-title="🌐其他综合" resolution="1920x1056" speed="669",Cooking Channel
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
-#EXTINF:-1 tvg-id="CourtTV" tvg-name="CourtTV" group-title="🌐其他综合" resolution="1920x1056" speed="686",CourtTV
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-name="CourtTV" group-title="🌐其他综合" resolution="1920x1056" speed="686",CourtTV
 https://amg01438-ewscrippscompan-courttv-tablo-nbcc7.amagi.tv/ts-us-w2-n2/playlist/amg01438-ewscrippscompan-courttv-tablo/cb543e1f796c648e9dd43c66cef340a1f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7b2c95adc361277d4a3cce0b0ca7f941a6fce64346de7eb5e4484b962711e3805fc8804dea9dd55ac8429b27a317998ff18dd2178182c432f801e3643b69480ef132919cb33f9ef1d80011937f2f06355ae8a4e191245ea77433977c62a9c501de00c7885fe12a57e945f0c7e3414de3824738c01880d444830ef5c34ef87b2b4981f6a98bb41d3cb361c489e6d3744648977e6d6ac677d12e2739dfa88544c48b3897b52a8ba0660e309bd16c9589b78faf9d8c49dc0af987ccd86c127132513dd114e2bb7dcb25d84fadcc3828480211fecd1b97d099161b4a7babac12941f12b2decba4da0d30c5295b79e072d65600239d603932b563a9d46c2cba270c842734b40d66d70cafee5e9acdbfca357b8daca013af50bee035858c45c30b1b560db4fe292d206d6dc0e263775d5acb57ebdecfa13a492fdfb7f5bca7773d1432035d1c8181b620c86ea1dbeebe6c35ae77d381bec7ce4ef0ae61894f303a0b/103/1920x1080_5058864/index.m3u8
-#EXTINF:-1 tvg-id="HSN" tvg-name="HSN" group-title="🌐其他综合" resolution="1280x720" speed="2066",HSN
+#EXTINF:-1 tvg-id="HSN.us" tvg-name="HSN" group-title="🌐其他综合" resolution="1280x720" speed="2066",HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1usott/medhigh.m3u8
-#EXTINF:-1 tvg-id="Ion" tvg-name="Ion" group-title="🌐其他综合" resolution="1920x1056" speed="835",Ion
+#EXTINF:-1 tvg-id="Ion.us" tvg-name="Ion" group-title="🌐其他综合" resolution="1920x1056" speed="835",Ion
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a5e7ebd8-80a4-49ed-8337-3f63f84673cc/1.m3u8
-#EXTINF:-1 tvg-id="SkyDocumentariesUK" tvg-name="SkyDocumentariesUK" group-title="🌐其他综合" resolution="1280x720" speed="345",SkyDocumentariesUK
+#EXTINF:-1 tvg-id="SkyDocumentariesUK.us" tvg-name="SkyDocumentariesUK" group-title="🌐其他综合" resolution="1280x720" speed="345",SkyDocumentariesUK
 http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/293976
 #EXTINF:-1 tvg-id="TheShoppingChannel" tvg-name="The Shopping Channel" group-title="🌐其他综合" resolution="1280x720" speed="2103",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
@@ -1867,15 +1867,15 @@ https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/a
 http://30a-tv.com/my999.m3u8
 #EXTINF:-1 tvg-id="ALLOCINÉ" tvg-name="ALLO CINÉ" group-title="🌐其他综合" resolution="1920x1056" speed="1151",ALLO CINÉ
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
-#EXTINF:-1 tvg-id="AWE" tvg-name="AWE" group-title="🌐其他综合" resolution="1920x1056" speed="1358",AWE
+#EXTINF:-1 tvg-id="AWE.us" tvg-name="AWE" group-title="🌐其他综合" resolution="1920x1056" speed="1358",AWE
 https://awe-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AWE" tvg-name="AWE" group-title="🌐其他综合" resolution="1280x720" speed="2112",AWE
+#EXTINF:-1 tvg-id="AWE.us" tvg-name="AWE" group-title="🌐其他综合" resolution="1280x720" speed="2112",AWE
 https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="AWEEncore" tvg-name="AWE Encore" group-title="🌐其他综合" resolution="1920x1056" speed="2123",AWE Encore
 https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 #EXTINF:-1 tvg-id="AWEEncore" tvg-name="AWE Encore" group-title="🌐其他综合" resolution="1920x1056" speed="1677",AWE Encore
 https://aweencore-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AXSTV" tvg-name="AXSTV" group-title="🌐其他综合" resolution="0x4294967272" speed="643",AXSTV
+#EXTINF:-1 tvg-id="AXSTV.us" tvg-name="AXSTV" group-title="🌐其他综合" resolution="0x4294967272" speed="643",AXSTV
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-id="AtlantaChannel" tvg-name="Atlanta Channel" group-title="🌐其他综合" resolution="1280x720" speed="201",Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
@@ -1885,19 +1885,19 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BEACHTV(2+)" tvg-name="BEACH TV" group-title="🌐其他综合" resolution="1280x720" speed="615",BEACH TV
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
-#EXTINF:-1 tvg-id="BritBoxMysteriesUK" tvg-name="BritBoxMysteriesUK" group-title="🌐其他综合" resolution="1920x1056" speed="825",BritBoxMysteriesUK
+#EXTINF:-1 tvg-id="BritBoxMysteriesUK.us" tvg-name="BritBoxMysteriesUK" group-title="🌐其他综合" resolution="1920x1056" speed="825",BritBoxMysteriesUK
 https://1d7f286dfb844497ac68dd9d6eeb6ea6.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-796-BRITBOXMYSTERIES-LG_US/a623a951-0765-40f6-83dd-307e7c64a4f5/0.m3u8
 #EXTINF:-1 tvg-id="CAFETV24" tvg-name="CAFE TV 24" group-title="🌐其他综合" resolution="1920x1056" speed="324",CAFE TV 24
 https://srvx1.selftv.video/cafe/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Clarity4K" tvg-name="Clarity4K" group-title="🌐其他综合" resolution="" speed="2202",Clarity4K
+#EXTINF:-1 tvg-id="Clarity4K.us" tvg-name="Clarity4K" group-title="🌐其他综合" resolution="" speed="2202",Clarity4K
 https://pb-qyrvophnifz47.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-qyrvophnifz47/51e90851-a1fe-45bf-bbe2-591b2bf91b9f/3.m3u8
 #EXTINF:-1 tvg-id="DCCOUNCILCHANNEL" tvg-name="DC COUNCIL CHANNEL" group-title="🌐其他综合" resolution="1920x1056" speed="1212",DC COUNCIL CHANNEL
 http://video.oct.dc.gov/out/u/15_12.m3u8
 #EXTINF:-1 tvg-id="DIEUTV" tvg-name="DIEU TV" group-title="🌐其他综合" resolution="1280x720" speed="1923",DIEU TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
-#EXTINF:-1 tvg-id="E" tvg-name="E" group-title="🌐其他综合" resolution="1920x1056" speed="1019",E
+#EXTINF:-1 tvg-id="E.us" tvg-name="E" group-title="🌐其他综合" resolution="1920x1056" speed="1019",E
 http://23.237.104.106:8080/USA_E/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="E!" tvg-name="E!" group-title="🌐其他综合" resolution="1920x1056" speed="374",E!
+#EXTINF:-1 tvg-id="E!.us" tvg-name="E!" group-title="🌐其他综合" resolution="1920x1056" speed="374",E!
 http://23.237.104.106:8080/USA_E/index.m3u8
 #EXTINF:-1 tvg-id="EI15TV" tvg-name="EI 15 TV" group-title="🌐其他综合" resolution="" speed="1430",EI 15 TV
 https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/chunklist_w1325534651_vo.m3u8?_HLS_skip=YES
@@ -1909,21 +1909,21 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EXPRESATV" tvg-name="EXPRESA TV" group-title="🌐其他综合" resolution="1920x1056" speed="919",EXPRESA TV
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/chunklist_w343062243_b478000_sleng.m3u8
-#EXTINF:-1 tvg-id="Earth" tvg-name="Earth" group-title="🌐其他综合" resolution="1920x1056" speed="1723",Earth
+#EXTINF:-1 tvg-id="Earth.us" tvg-name="Earth" group-title="🌐其他综合" resolution="1920x1056" speed="1723",Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="FRESHDanceRU" tvg-name="FRESHDanceRU" group-title="🌐其他综合" resolution="1920x1056" speed="234",FRESHDanceRU
+#EXTINF:-1 tvg-id="FRESHDanceRU.us" tvg-name="FRESHDanceRU" group-title="🌐其他综合" resolution="1920x1056" speed="234",FRESHDanceRU
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/F65BX3TKGTCBZQ/18087/index.m3u8
-#EXTINF:-1 tvg-id="GSTV" tvg-name="GSTV" group-title="🌐其他综合" resolution="1280x720" speed="1482",GSTV
+#EXTINF:-1 tvg-id="GSTV.us" tvg-name="GSTV" group-title="🌐其他综合" resolution="1280x720" speed="1482",GSTV
 https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
-#EXTINF:-1 tvg-id="Games+" tvg-name="Games+" group-title="🌐其他综合" resolution="1280x720" speed="1416",Games+
+#EXTINF:-1 tvg-id="Games+.us" tvg-name="Games+" group-title="🌐其他综合" resolution="1280x720" speed="1416",Games+
 https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="GoUSA" tvg-name="Go USA" group-title="🌐其他综合" resolution="1280x720" speed="1696",Go USA
 https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GraceNetwork" tvg-name="Grace Network" group-title="🌐其他综合" resolution="1280x720" speed="250",Grace Network
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HLN" tvg-name="HLN" group-title="🌐其他综合" resolution="1920x1056" speed="1978",HLN
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" group-title="🌐其他综合" resolution="1920x1056" speed="1978",HLN
 http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="HLN" tvg-name="HLN" group-title="🌐其他综合" resolution="1920x1056" speed="1885",HLN
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" group-title="🌐其他综合" resolution="1920x1056" speed="1885",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 tvg-id="HOMESHOPPING" tvg-name="HOME SHOPPING" group-title="🌐其他综合" resolution="1280x720" speed="1676",HOME SHOPPING
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
@@ -1935,7 +1935,7 @@ http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 #EXTINF:-1 tvg-id="LOBOTV" tvg-name="LOBO TV" group-title="🌐其他综合" resolution="1280x720" speed="1628",LOBO TV
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/chunklist_w1578271904.m3u8
-#EXTINF:-1 tvg-id="Loupe4K" tvg-name="Loupe4K" group-title="🌐其他综合" resolution="" speed="2121",Loupe4K
+#EXTINF:-1 tvg-id="Loupe4K.us" tvg-name="Loupe4K" group-title="🌐其他综合" resolution="" speed="2121",Loupe4K
 https://pb-bshbbwpmizhpq.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-bshbbwpmizhpq/78e01c1c-40b0-4076-b673-805e59125473/5.m3u8
 #EXTINF:-1 tvg-id="MYZEN" tvg-name="MY ZEN" group-title="🌐其他综合" resolution="1920x1056" speed="1208",MY ZEN
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
@@ -1957,27 +1957,27 @@ https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w450313531.m3u8
 https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:-1 tvg-id="RakutenViki" tvg-name="Rakuten Viki" group-title="🌐其他综合" resolution="1920x1056" speed="1032",Rakuten Viki
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyOneActionHITSUK" tvg-name="SonyOneActionHITSUK" group-title="🌐其他综合" resolution="1920x1056" speed="525",SonyOneActionHITSUK
+#EXTINF:-1 tvg-id="SonyOneActionHITSUK.us" tvg-name="SonyOneActionHITSUK" group-title="🌐其他综合" resolution="1920x1056" speed="525",SonyOneActionHITSUK
 https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/af2459de-b2ca-47eb-8435-5e6998ec22dc/0.m3u8
-#EXTINF:-1 tvg-id="SonyOneComedyHITSUK" tvg-name="SonyOneComedyHITSUK" group-title="🌐其他综合" resolution="1920x1056" speed="680",SonyOneComedyHITSUK
+#EXTINF:-1 tvg-id="SonyOneComedyHITSUK.us" tvg-name="SonyOneComedyHITSUK" group-title="🌐其他综合" resolution="1920x1056" speed="680",SonyOneComedyHITSUK
 https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/cc1d2891-3e9b-4e4c-a518-383d37092998/0.m3u8
-#EXTINF:-1 tvg-id="SonyOneComedyTVUK" tvg-name="SonyOneComedyTVUK" group-title="🌐其他综合" resolution="1920x1056" speed="513",SonyOneComedyTVUK
+#EXTINF:-1 tvg-id="SonyOneComedyTVUK.us" tvg-name="SonyOneComedyTVUK" group-title="🌐其他综合" resolution="1920x1056" speed="513",SonyOneComedyTVUK
 https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/09055582-32bf-4ef3-a52d-c2396416feb2/0.m3u8
-#EXTINF:-1 tvg-id="SonyOneFAVESUK" tvg-name="SonyOneFAVESUK" group-title="🌐其他综合" resolution="1920x1056" speed="355",SonyOneFAVESUK
+#EXTINF:-1 tvg-id="SonyOneFAVESUK.us" tvg-name="SonyOneFAVESUK" group-title="🌐其他综合" resolution="1920x1056" speed="355",SonyOneFAVESUK
 https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/f3dfc4d0-f5ec-4ea8-b4b0-d0db3982bd9c/0.m3u8
-#EXTINF:-1 tvg-id="SonyOneThrillerTVUK" tvg-name="SonyOneThrillerTVUK" group-title="🌐其他综合" resolution="1920x1056" speed="601",SonyOneThrillerTVUK
+#EXTINF:-1 tvg-id="SonyOneThrillerTVUK.us" tvg-name="SonyOneThrillerTVUK" group-title="🌐其他综合" resolution="1920x1056" speed="601",SonyOneThrillerTVUK
 https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/02d6917b-e5da-46e2-82d5-c3b3103bfd0e/0.m3u8
 #EXTINF:-1 tvg-id="TRACEURBAN" tvg-name="TRACE URBAN" group-title="🌐其他综合" resolution="1920x1056" speed="1622",TRACE URBAN
 https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="TRACEURBAN" tvg-name="TRACE URBAN" group-title="🌐其他综合" resolution="1920x1056" speed="1385",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TSC" tvg-name="TSC" group-title="🌐其他综合" resolution="1280x720" speed="1818",TSC
+#EXTINF:-1 tvg-id="TSC.us" tvg-name="TSC" group-title="🌐其他综合" resolution="1280x720" speed="1818",TSC
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-id="TV5MONDEINFO" tvg-name="TV5 MONDE INFO" group-title="🌐其他综合" resolution="1280x720" speed="1145",TV5 MONDE INFO
 https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u7sgewc3l8ri/tvfm.m3u8
 #EXTINF:-1 tvg-id="TVM3" tvg-name="TVM 3" group-title="🌐其他综合" resolution="1920x1056" speed="378",TVM 3
 https://edge11.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
-#EXTINF:-1 tvg-id="TraceUrbanUK" tvg-name="TraceUrbanUK" group-title="🌐其他综合" resolution="1920x1056" speed="1342",TraceUrbanUK
+#EXTINF:-1 tvg-id="TraceUrbanUK.us" tvg-name="TraceUrbanUK" group-title="🌐其他综合" resolution="1920x1056" speed="1342",TraceUrbanUK
 https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/ts-eu-w1-n2/playlist/amg01131-tracetv-traceurbanuk-samsunguk/cb543e1f796c648e9dd43c66cef340a1f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7b2a95adc361277d4a3cce0b0ca7f941a6fce64346de7eb5e41f49c12c17b6d45f9cd449bf9dd55ac8439b7ea41dcb8fa18d861481d39435a957b5365328481498846addca52a6ca9b1b5af610781c6d3f81a297ed00388f4331349299d08f56d637d3d35deb0736bf13d64b8a24f806c062bcd56f928a9eeb6d710db99e1b0b49a1e1b3c4fa25238262f4afe8d47d0ef79c786366f95de7060415b1d4e509debf7ffab72796fa680d28ff9f449698c0ef85da966bac15f5e9d5b5185f141d6e6f8759b1d479d816ce6cbac71d262e202ec68161e7b9ea6a024b61a19d6ce57968d169638ca56c13e1227272e76ede1b2e63c2331e138f4fd8a94ca70dbb68ff511ce85134fa22b6d87eb0cf538277fc3df689ddde39cfccf58ebab65387007948ddd33f56440355dfe061321b76cd42de02ab8b62240ff6fec1f2c11c6d4969571a218ae1ee7e8f81d3214656e85d326578503a97079646ec4071407f992182f93623cc46003df6ab3a6a5f6ebdc1a5ced2859d0ae6299387d6111b16752ffd3f0c2d6b9391885af637023e595592006946f2560e11a4c587b5d7d02efd9d62ab2a6b5b3696a759125f201c096eb4a328ef2c85c24d86ca9f639b95ca7823a233ac061c9ba2b94de8fd8dc23562b3a245166a92936a855c1e872f964cacd763d3a45a16165e141c22efb7388f13b96d9993273b68469d64fb51966929e9fc/44/1920x1080_5288800/index.m3u8
 #EXTINF:-1 tvg-id="TravelXP" tvg-name="Travel XP" group-title="🌐其他综合" resolution="1920x1056" speed="1506",Travel XP
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -1987,7 +1987,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/260.ts
 #EXTINF:-1 tvg-id="UniversalAction" tvg-name="Universal Action" group-title="🌐其他综合" resolution="1920x1056" speed="607",Universal Action
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/14c3da40-a4a0-4788-bd7d-210fbed221dd/4.m3u8
-#EXTINF:-1 tvg-id="UniversalWestern" tvg-name="UniversalWestern" group-title="🌐其他综合" resolution="1920x1056" speed="789",UniversalWestern
+#EXTINF:-1 tvg-id="UniversalWestern.us" tvg-name="UniversalWestern" group-title="🌐其他综合" resolution="1920x1056" speed="789",UniversalWestern
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/a121f0f1-6195-47d3-aaeb-aebe124b0511/4.m3u8
 #EXTINF:-1 tvg-id="YoungHollywood" tvg-name="Young Hollywood" group-title="🌐其他综合" resolution="1920x1056" speed="989",Young Hollywood
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
@@ -1995,9 +1995,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywoo
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 #EXTINF:-1 tvg-id="gswshd" tvg-name="gsws hd" group-title="🌐其他综合" resolution="720x576" speed="2155",gsws hd
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-#EXTINF:-1 tvg-id="hbwshd" tvg-name="hbwshd" group-title="🌐其他综合" resolution="1920x1056" speed="2114",hbwshd
+#EXTINF:-1 tvg-id="hbwshd.us" tvg-name="hbwshd" group-title="🌐其他综合" resolution="1920x1056" speed="2114",hbwshd
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
-#EXTINF:-1 tvg-id="nxss" tvg-name="nxss" group-title="🌐其他综合" resolution="1920x1056" speed="2020",nxss
+#EXTINF:-1 tvg-id="nxss.us" tvg-name="nxss" group-title="🌐其他综合" resolution="1920x1056" speed="2020",nxss
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
 #EXTINF:-1 tvg-id="peertv" tvg-name="peer tv" group-title="🌐其他综合" resolution="1920x1056" speed="520",peer tv
 https://iptv.peer.biz/live/peertv.m3u8
@@ -2089,13 +2089,13 @@ http://192.151.150.154/live/chcjt.m3u8
 http://192.151.150.154/live/chchd.m3u8
 #EXTINF:-1 tvg-id="AMCAbsoluteReality" tvg-name="AMC Absolute Reality" group-title="🎬其他电影" resolution="1920x1056" speed="2098",AMC Absolute Reality
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCThrillers" tvg-name="AMCThrillers" group-title="🎬其他电影" resolution="1920x1056" speed="787",AMCThrillers
+#EXTINF:-1 tvg-id="AMCThrillers.us" tvg-name="AMCThrillers" group-title="🎬其他电影" resolution="1920x1056" speed="787",AMCThrillers
 https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/dbfca017-81b9-4a86-af1e-debe7e1a7666/4.m3u8
 #EXTINF:-1 tvg-id="CHCOTVCA" tvg-name="CHCOTV CA" group-title="🎬其他电影" resolution="1920x1056" speed="986",CHCOTV CA
 https://temp4.isilive.ca/live/CHCOTV/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="CinemaxClassics" tvg-name="CinemaxClassics" group-title="🎬其他电影" resolution="1024x576" speed="1181",CinemaxClassics
+#EXTINF:-1 tvg-id="CinemaxClassics.us" tvg-name="CinemaxClassics" group-title="🎬其他电影" resolution="1024x576" speed="1181",CinemaxClassics
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:-1 tvg-id="CinemaxHits" tvg-name="CinemaxHits" group-title="🎬其他电影" resolution="1920x1056" speed="1022",CinemaxHits
+#EXTINF:-1 tvg-id="CinemaxHits.us" tvg-name="CinemaxHits" group-title="🎬其他电影" resolution="1920x1056" speed="1022",CinemaxHits
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="HBOBOXING" tvg-name="HBO BOXING" group-title="🎬其他电影" resolution="1280x720" speed="1211",HBO BOXING
 https://streams2.sofast.tv/vglive-sk-462904/tracks-v2a1/mono.ts.m3u8
@@ -2103,27 +2103,27 @@ https://streams2.sofast.tv/vglive-sk-462904/tracks-v2a1/mono.ts.m3u8
 http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MovieSphere(1080p)" tvg-name="MovieSphere (1080p)" group-title="🎬其他电影" resolution="1920x1056" speed="1682",MovieSphere (1080p)
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork" tvg-name="ParamountNetwork" group-title="🎬其他电影" resolution="1920x1056" speed="1138",ParamountNetwork
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="ParamountNetwork" group-title="🎬其他电影" resolution="1920x1056" speed="1138",ParamountNetwork
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="RAKUTENTOPFILMSTV" tvg-name="RAKUTEN TOP FILMS TV" group-title="🎬其他电影" resolution="1920x1056" speed="1965",RAKUTEN TOP FILMS TV
 https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
-#EXTINF:-1 tvg-id="SHOWTIME_FAMILY" tvg-name="SHOWTIME_FAMILY" group-title="🎬其他电影" resolution="1920x1056" speed="1968",SHOWTIME_FAMILY
+#EXTINF:-1 tvg-id="SHOWTIME_FAMILY.us" tvg-name="SHOWTIME_FAMILY" group-title="🎬其他电影" resolution="1920x1056" speed="1968",SHOWTIME_FAMILY
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="STARZ_CINEMA" tvg-name="STARZ_CINEMA" group-title="🎬其他电影" resolution="1920x1056" speed="1935",STARZ_CINEMA
+#EXTINF:-1 tvg-id="STARZ_CINEMA.us" tvg-name="STARZ_CINEMA" group-title="🎬其他电影" resolution="1920x1056" speed="1935",STARZ_CINEMA
 http://23.237.104.106:8080/USA_STARZ_CINEMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Showtime2" tvg-name="Showtime2" group-title="🎬其他电影" resolution="1280x720" speed="294",Showtime2
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime2" group-title="🎬其他电影" resolution="1280x720" speed="294",Showtime2
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14169
-#EXTINF:-1 tvg-id="ShowtimeShowcase" tvg-name="ShowtimeShowcase" group-title="🎬其他电影" resolution="" speed="438",ShowtimeShowcase
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="ShowtimeShowcase" group-title="🎬其他电影" resolution="" speed="438",ShowtimeShowcase
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/188733
-#EXTINF:-1 tvg-id="Starz" tvg-name="Starz" group-title="🎬其他电影" resolution="1280x720" speed="717",Starz
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" group-title="🎬其他电影" resolution="1280x720" speed="717",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
-#EXTINF:-1 tvg-id="StarzComedy" tvg-name="StarzComedy" group-title="🎬其他电影" resolution="1280x720" speed="486",StarzComedy
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="StarzComedy" group-title="🎬其他电影" resolution="1280x720" speed="486",StarzComedy
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14917
-#EXTINF:-1 tvg-id="StarzEncoreAction" tvg-name="StarzEncoreAction" group-title="🎬其他电影" resolution="1280x720" speed="445",StarzEncoreAction
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="StarzEncoreAction" group-title="🎬其他电影" resolution="1280x720" speed="445",StarzEncoreAction
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14923
-#EXTINF:-1 tvg-id="StarzEncoreBlack" tvg-name="StarzEncoreBlack" group-title="🎬其他电影" resolution="1280x720" speed="340",StarzEncoreBlack
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="StarzEncoreBlack" group-title="🎬其他电影" resolution="1280x720" speed="340",StarzEncoreBlack
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/216179
-#EXTINF:-1 tvg-id="StarzEncoreFamily" tvg-name="StarzEncoreFamily" group-title="🎬其他电影" resolution="1280x720" speed="425",StarzEncoreFamily
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="StarzEncoreFamily" group-title="🎬其他电影" resolution="1280x720" speed="425",StarzEncoreFamily
 http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/216178
 #EXTINF:-1 tvg-id="StoriesbyAMC" tvg-name="Stories by AMC" group-title="🎬其他电影" resolution="1920x1056" speed="768",Stories by AMC
 https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-linear-amc-hlsv3/6f61dc83-1db6-47ca-91fa-c7a26dc238fb/5.m3u8
@@ -2199,9 +2199,9 @@ http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TLCHD.us" tvg-name="TLC" group-title="🎞️纪实频道" resolution="1280x720" speed="1188",TLC
 http://79.127.238.228:14433/
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY" group-title="🎞️纪实频道" resolution="1920x1056" speed="683",HISTORY
+#EXTINF:-1 tvg-id="HISTORY.us" tvg-name="HISTORY" group-title="🎞️纪实频道" resolution="1920x1056" speed="683",HISTORY
 http://37.27.111.214:8080/live/27/hls.m3u8
-#EXTINF:-1 tvg-id="LoveNature4KCA" tvg-name="LoveNature4KCA" group-title="🎞️纪实频道" resolution="" speed="1959",LoveNature4KCA
+#EXTINF:-1 tvg-id="LoveNature4KCA.us" tvg-name="LoveNature4KCA" group-title="🎞️纪实频道" resolution="" speed="1959",LoveNature4KCA
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 #EXTINF:-1 tvg-id="NATURETIME" tvg-name="NATURE TIME" group-title="🎞️纪实频道" resolution="1920x1056" speed="859",NATURE TIME
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
@@ -2213,29 +2213,29 @@ https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" group-title="🎵音乐频道" resolution="1920x1056" speed="2043",CCTV风云音乐
 http://192.151.150.154/live/fyyy.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" group-title="🎵音乐频道" resolution="1280x720" speed="318",MTV
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV" group-title="🎵音乐频道" resolution="1280x720" speed="318",MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1" group-title="🎵音乐频道" resolution="1920x1056" speed="831",VH1
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" group-title="🎵音乐频道" resolution="1920x1056" speed="831",VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 #EXTINF:-1 tvg-id="MADRASFMTV" tvg-name="MADRAS FM TV" group-title="🎵音乐频道" resolution="1920x1072" speed="218",MADRAS FM TV
 https://edge17.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
-#EXTINF:-1 tvg-id="UMTV" tvg-name="UMTV" group-title="🎵音乐频道" resolution="1920x1056" speed="2096",UMTV
+#EXTINF:-1 tvg-id="UMTV.us" tvg-name="UMTV" group-title="🎵音乐频道" resolution="1920x1056" speed="2096",UMTV
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/chunklist_w241958955.m3u8
-#EXTINF:-1 tvg-id="UMTV" tvg-name="UMTV" group-title="🎵音乐频道" resolution="1920x1056" speed="2012",UMTV
+#EXTINF:-1 tvg-id="UMTV.us" tvg-name="UMTV" group-title="🎵音乐频道" resolution="1920x1056" speed="2012",UMTV
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/chunklist_w2092642433.m3u8
-#EXTINF:-1 tvg-id="XITE80sFlashback" tvg-name="XITE80sFlashback" group-title="🎵音乐频道" resolution="1920x1056" speed="2261",XITE80sFlashback
+#EXTINF:-1 tvg-id="XITE80sFlashback.us" tvg-name="XITE80sFlashback" group-title="🎵音乐频道" resolution="1920x1056" speed="2261",XITE80sFlashback
 https://d1n314cytqn9r3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/546a529d-394a-4513-bb13-af14dbfbefaf/3.m3u8
-#EXTINF:-1 tvg-id="XITE90sThrowback" tvg-name="XITE90sThrowback" group-title="🎵音乐频道" resolution="1920x1056" speed="2087",XITE90sThrowback
+#EXTINF:-1 tvg-id="XITE90sThrowback.us" tvg-name="XITE90sThrowback" group-title="🎵音乐频道" resolution="1920x1056" speed="2087",XITE90sThrowback
 https://d284aawtm5vi48.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/4aa6988f-4506-421c-8687-42c4b2105ad0/3.m3u8
-#EXTINF:-1 tvg-id="XITEChristianHits" tvg-name="XITEChristianHits" group-title="🎵音乐频道" resolution="1920x1056" speed="1784",XITEChristianHits
+#EXTINF:-1 tvg-id="XITEChristianHits.us" tvg-name="XITEChristianHits" group-title="🎵音乐频道" resolution="1920x1056" speed="1784",XITEChristianHits
 https://jmp2.uk/stvp-US46000072L
-#EXTINF:-1 tvg-id="XITEHits" tvg-name="XITEHits" group-title="🎵音乐频道" resolution="1920x1056" speed="2192",XITEHits
+#EXTINF:-1 tvg-id="XITEHits.us" tvg-name="XITEHits" group-title="🎵音乐频道" resolution="1920x1056" speed="2192",XITEHits
 https://d726x48n2pd5h.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/c70b5479-c97b-407b-9caf-4dc3877797bb/3.m3u8
-#EXTINF:-1 tvg-id="XITEJustChill" tvg-name="XITEJustChill" group-title="🎵音乐频道" resolution="1920x1056" speed="1569",XITEJustChill
+#EXTINF:-1 tvg-id="XITEJustChill.us" tvg-name="XITEJustChill" group-title="🎵音乐频道" resolution="1920x1056" speed="1569",XITEJustChill
 https://dvnftgdlbnemm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dh48uzd9o895t/00fbab90-74cb-4f1f-9dc7-3c6729bc05b6/3.m3u8
-#EXTINF:-1 tvg-id="XITEReggaeVibes" tvg-name="XITEReggaeVibes" group-title="🎵音乐频道" resolution="1920x1056" speed="1714",XITEReggaeVibes
+#EXTINF:-1 tvg-id="XITEReggaeVibes.us" tvg-name="XITEReggaeVibes" group-title="🎵音乐频道" resolution="1920x1056" speed="1714",XITEReggaeVibes
 https://jmp2.uk/stvp-US4600008JA
-#EXTINF:-1 tvg-id="XITERockxMetal" tvg-name="XITERockxMetal" group-title="🎵音乐频道" resolution="1920x1056" speed="2321",XITERockxMetal
+#EXTINF:-1 tvg-id="XITERockxMetal.us" tvg-name="XITERockxMetal" group-title="🎵音乐频道" resolution="1920x1056" speed="2321",XITERockxMetal
 https://jmp2.uk/stvp-USBB2300004KV
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="👶少儿频道" resolution="720x576" speed="2007",优漫卡通
 http://192.151.150.154/live/ymkt.m3u8
@@ -2253,21 +2253,21 @@ http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 http://183.11.239.36:808/hls/157/index.m3u8
 #EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" group-title="👶少儿频道" resolution="" speed="1380",深圳少儿
 http://gmxw.7766.org:808/hls/157/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="👶少儿频道" resolution="1280x720" speed="1840",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon" group-title="👶少儿频道" resolution="1280x720" speed="1840",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" group-title="👶少儿频道" resolution="1920x1056" speed="321",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" group-title="👶少儿频道" resolution="1920x1056" speed="321",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="3ABNKids" tvg-name="3ABN Kids" group-title="👶少儿频道" resolution="1280x720" speed="898",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" group-title="👶少儿频道" resolution="1920x1056" speed="1239",CartoonNetwork
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CartoonNetwork" group-title="👶少儿频道" resolution="1920x1056" speed="1239",CartoonNetwork
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="DISNEY_JUNIOR" tvg-name="DISNEY_JUNIOR" group-title="👶少儿频道" resolution="1280x720" speed="1958",DISNEY_JUNIOR
+#EXTINF:-1 tvg-id="DISNEY_JUNIOR.us" tvg-name="DISNEY_JUNIOR" group-title="👶少儿频道" resolution="1280x720" speed="1958",DISNEY_JUNIOR
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DISNEY_XD" tvg-name="DISNEY_XD" group-title="👶少儿频道" resolution="1280x720" speed="1981",DISNEY_XD
+#EXTINF:-1 tvg-id="DISNEY_XD.us" tvg-name="DISNEY_XD" group-title="👶少儿频道" resolution="1280x720" speed="1981",DISNEY_XD
 http://23.237.104.106:8080/USA_DISNEY_XD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="DisneyXD" tvg-name="DisneyXD" group-title="👶少儿频道" resolution="1280x720" speed="404",DisneyXD
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DisneyXD" group-title="👶少儿频道" resolution="1280x720" speed="404",DisneyXD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="KURIAKOSKIDS" tvg-name="KURIAKOS KIDS" group-title="👶少儿频道" resolution="1920x1056" speed="246",KURIAKOS KIDS
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Naruto" tvg-name="Naruto" group-title="👶少儿频道" resolution="" speed="2098",Naruto
+#EXTINF:-1 tvg-id="Naruto.us" tvg-name="Naruto" group-title="👶少儿频道" resolution="" speed="2098",Naruto
 https://d21vn5eki5qsdi.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yscnwuwrfwcve/2c5dc73d-6915-4ae4-b4e7-bcecdcd78db3/0.m3u8
