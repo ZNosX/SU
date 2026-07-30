@@ -92,7 +92,7 @@ CCTV4K超高清,http://192.151.150.154/live/cctv4k.m3u8
 龙泉新闻,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 龙游新闻,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 娱乐新闻,http://cdn6.123.rr.kg/163189/ylxw
-📰香港新闻,#genre#
+🇭🇰香港新闻📰,#genre#
 TVB新闻,http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
 TVB新闻,https://cdn6.cc.cd/163189/wxxw
 TVB新闻,http://cdn6.123.rr.kg/163189/wxxw
@@ -113,7 +113,7 @@ Now新闻,http://rihou.cc:555/tv/[Hk]Now%E6%96%B0%E9%97%BB
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 澳门资讯,https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w929410396.m3u8
-📰台湾新闻,#genre#
+🇹🇼台湾新闻📰,#genre#
 TVBS新闻,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-1.m3u8
