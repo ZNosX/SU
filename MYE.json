@@ -1119,9 +1119,9 @@
     ],
     "lives": [
         {
-            "name": "superiptv",
+            "name": "V",
             "type": 0,
-            "url": "http://127.0.0.1:5266/iptv.m3u",
+            "url": "https://gh-proxy.org/https://github.com/ZNosX/SU/blob/main/YSC.txt",
             "playerType": 2
         }
     ],
