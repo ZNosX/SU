@@ -30,17 +30,15 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13md
 #EXTINF:-1 tvg-id="582153" tvg-name="CCTV13" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV13.png" group-title="🇨🇳大陆新闻📰",CCTV13
 http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="582224" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="🇨🇳大陆新闻📰",凤凰资讯
-https://phoenixtv.hkatv.vip/liveott/PIN.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="582224" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="🇨🇳大陆新闻📰",凤凰资讯
 https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="582223" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="🇨🇳大陆新闻📰",凤凰中文
-https://phoenixtv.hkatv.vip/liveott/PCC.m3u8
-#EXTINF:-1 tvg-id="582223" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="🇨🇳大陆新闻📰",凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 tvg-id="582223" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="🇨🇳大陆新闻📰",凤凰香港
-https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="582224" tvg-name="凤凰卫视" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="🇨🇳大陆新闻📰",凤凰卫视
+http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="3518" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV4.png" group-title="🇨🇳大陆新闻📰",CCTV4
-http://107.150.60.122/live/cctv4hd.m3u8
+http://222.223.41.27:8888/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="3518" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV4.png" group-title="🇨🇳大陆新闻📰",CCTV4
 http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="3518" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV4.png" group-title="🇨🇳大陆新闻📰",CCTV4
@@ -468,17 +466,9 @@ https://live.corusdigitaldev.com/groupc/live/cea96246-9af2-4373-932f-cdd3f8db2bc
 https://live.corusdigitaldev.com/groupc/live/9fd97fb0-baa8-4191-bd2c-59aa5c9a1d48/live.isml/.m3u8
 #EXTGRP:🇭🇰香港频道
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="🇭🇰香港频道",翡翠台
-http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E7%BF%A14k
+https://cdn3.indevs.in/stream/tvb/fct4k/
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="🇭🇰香港频道",翡翠台
-https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="🇭🇰香港频道",翡翠台
-http://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="🇭🇰香港频道",翡翠台
-http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
-#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="🇭🇰香港频道",翡翠台
-https://cdn6.cc.cd/163189/fct
-#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="🇭🇰香港频道",翡翠台
-http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E7%BF%A1%E7%BF%A0
+https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="🇭🇰香港频道",翡翠台
 http://r.jdshipin.com/n90gt
 #EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="🇭🇰香港频道",翡翠台
@@ -2313,6 +2303,8 @@ https://jmp2.uk/stvp-US4600008JA
 #EXTINF:-1 tvg-id="XITERockxMetal" tvg-name="XITERockxMetal" group-title="🎵音乐频道",XITERockxMetal
 https://jmp2.uk/stvp-USBB2300004KV
 #EXTGRP:👶少儿频道
+#EXTINF:-1 tvg-name="金鹰卡通[1080]" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卡通频道" response-time="66ms",金鹰卡通
+http://59.39.89.130:60901/tsfile/live/0125_25.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="545946" tvg-name="CCTV-14 少儿" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV1.png" group-title="👶少儿频道",CCTV-14 少儿
 http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="👶少儿频道",优漫卡通
