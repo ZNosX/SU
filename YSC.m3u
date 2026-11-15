@@ -196,20 +196,20 @@ http://cdn6.123.rr.kg/163189/ylxw
 #EXTGRP:🇹🇼台湾新闻📰
 #EXTINF:-1 tvg-id="456556" tvg-name="TVBS新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E6%96%B0%E9%97%BB.png" group-title="🇹🇼台湾新闻📰",TVBS新闻
 http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
+#EXTINF:-1 tvg-id="370170" tvg-name="东森新闻" group-title="🇹🇼台湾新闻📰",东森新闻
+http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 tvg-id="370170" tvg-name="东森新闻" group-title="🇹🇼台湾新闻📰",东森新闻
+http://211.72.174.95:8138/0.ts
+#EXTINF:-1 tvg-id="370170" tvg-name="东森新闻" group-title="🇹🇼台湾新闻📰",东森新闻
+http://rihou.cc:555/tv/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB
+#EXTINF:-1 tvg-id="370171" tvg-name="华视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="🇹🇼台湾新闻📰",华视新闻
+http://74.91.26.218:82/live/ctsnews.m3u8
 #EXTINF:-1 tvg-id="370176" tvg-name="中视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="🇹🇼台湾新闻📰",中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
 #EXTINF:-1 tvg-id="370176" tvg-name="中视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="🇹🇼台湾新闻📰",中视新闻
 https://t.freetv.fun/live/zhong-shi-xin-wen-1.m3u8
 #EXTINF:-1 tvg-id="457334" tvg-name="寰宇新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png" group-title="🇹🇼台湾新闻📰",寰宇新闻
 http://222.128.55.152:9080/live/hy.m3u8
-#EXTINF:-1 tvg-id="370170" tvg-name="东森新闻" group-title="🇹🇼台湾新闻📰",东森新闻
-http://rihou.cc:555/tv/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB
-#EXTINF:-1 tvg-id="370170" tvg-name="东森新闻" group-title="🇹🇼台湾新闻📰",东森新闻
-http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 tvg-id="370170" tvg-name="东森新闻" group-title="🇹🇼台湾新闻📰",东森新闻
-http://211.72.174.95:8138/0.ts
-#EXTINF:-1 tvg-id="370171" tvg-name="华视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8D%8E%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="🇹🇼台湾新闻📰",华视新闻
-http://74.91.26.218:82/live/ctsnews.m3u8
 #EXTINF:-1 tvg-id="456560" tvg-name="非凡新闻" group-title="🇹🇼台湾新闻📰",非凡新闻
 http://45.192.97.170:8880/play/1166.m3u8
 #EXTINF:-1 tvg-id="456560" tvg-name="非凡新闻" group-title="🇹🇼台湾新闻📰",非凡新闻
@@ -243,22 +243,26 @@ http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 #EXTINF:-1 tvg-id="457336" tvg-name="台视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="🇹🇼台湾新闻📰",台视新闻
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTGRP:🇭🇰香港新闻📰
-#EXTINF:-1 tvg-id="TVB新闻" tvg-name="TVB新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇭🇰香港新闻📰",TVB新闻
-http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
-#EXTINF:-1 tvg-id="TVB新闻" tvg-name="TVB新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇭🇰香港新闻📰",TVB新闻
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇭🇰香港新闻📰",无线新闻台
+http://r.jdshipin.com/CkuBd
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇭🇰香港新闻📰",无线新闻台
 https://cdn6.cc.cd/163189/wxxw
-#EXTINF:-1 tvg-id="TVB新闻" tvg-name="TVB新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇭🇰香港新闻📰",TVB新闻
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇭🇰香港新闻📰",无线新闻台
 http://cdn6.123.rr.kg/163189/wxxw
-#EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" group-title="🇭🇰香港新闻📰",有线新闻
-http://rihou.cc:555/tv/[Pd]%E6%9C%89%E7%BA%BF%E6%96%B0%E9%97%BB
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇭🇰香港新闻📰",无线新闻台
+http://rihou.cc:555/tv/[Pd]%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB
 #EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" group-title="🇭🇰香港新闻📰",有线新闻
 http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 #EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" group-title="🇭🇰香港新闻📰",有线新闻
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
 #EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" group-title="🇭🇰香港新闻📰",有线新闻
 http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="HOY资讯" tvg-name="HOY资讯" group-title="🇭🇰香港新闻📰",HOY资讯
+#EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" group-title="🇭🇰香港新闻📰",有线新闻
 http://rihou.cc:555/tv/[Pd]%E6%9C%89%E7%BA%BF%E6%96%B0%E9%97%BB
+#EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB.png" group-title="🇭🇰香港新闻📰",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB.png" group-title="🇭🇰香港新闻📰",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="600国际新闻" tvg-name="600国际新闻" group-title="🇭🇰香港新闻📰",600国际新闻
 https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="410344" tvg-name="Now新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/NOW%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇭🇰香港新闻📰",Now新闻
@@ -269,12 +273,6 @@ http://rihou.cc:555/tv/[Mt]Now%E6%96%B0%E9%97%BB
 http://rihou.cc:555/tv/[Cx]Now%E6%96%B0%E9%97%BB
 #EXTINF:-1 tvg-id="410344" tvg-name="Now新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/NOW%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇭🇰香港新闻📰",Now新闻
 http://rihou.cc:555/tv/[Hk]Now%E6%96%B0%E9%97%BB
-#EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB.png" group-title="🇭🇰香港新闻📰",亚洲新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="亚洲新闻" tvg-name="亚洲新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB.png" group-title="🇭🇰香港新闻📰",亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-id="368377" tvg-name="亚洲新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E4%BA%9A%E6%B4%B2%E6%96%B0%E9%97%BB.png" group-title="🇭🇰香港新闻📰",亚洲新闻台
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%80%80%E6%89%8D%E8%B4%A2%E7%BB%8F.png" group-title="🇭🇰香港新闻📰",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="耀才财经" tvg-name="耀才财经" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E8%80%80%E6%89%8D%E8%B4%A2%E7%BB%8F.png" group-title="🇭🇰香港新闻📰",耀才财经
@@ -283,6 +281,8 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳门资讯" tvg-name="澳门资讯" group-title="🇭🇰香港新闻📰",澳门资讯
 https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w929410396.m3u8
+#EXTINF:-1 tvg-id="HOY资讯" tvg-name="HOY资讯" group-title="🇭🇰香港新闻📰",HOY资讯
+http://rihou.cc:555/tv/[Pd]%E6%9C%89%E7%BA%BF%E6%96%B0%E9%97%BB
 #EXTGRP:🇺🇸美国新闻📰
 #EXTINF:-1 tvg-id="3179" tvg-name="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CNN.png" group-title="🇺🇸美国新闻📰",CNN
 https://jmp2.uk/stvp-GBBD1900008O3
@@ -383,10 +383,6 @@ https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="OANNEWS" tvg-name="OAN NEWS" group-title="🇺🇸美国新闻📰",OAN NEWS
 https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 #EXTGRP:🇺🇳国际新闻📰
-#EXTINF:-1 tvg-id="CNA亚洲新闻" tvg-name="CNA亚洲新闻" group-title="🇺🇳国际新闻📰",CNA亚洲新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="CNA亚洲新闻" tvg-name="CNA亚洲新闻" group-title="🇺🇳国际新闻📰",CNA亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 tvg-id="3329" tvg-name="BBC News" group-title="🇺🇳国际新闻📰",BBC News
 http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/250.ts
 #EXTINF:-1 tvg-id="3329" tvg-name="BBC News" group-title="🇺🇳国际新闻📰",BBC News
