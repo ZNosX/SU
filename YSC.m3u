@@ -196,6 +196,14 @@ http://cdn6.123.rr.kg/163189/ylxw
 #EXTGRP:🇹🇼台湾新闻📰
 #EXTINF:-1 tvg-id="456556" tvg-name="TVBS新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/TVBS%E6%96%B0%E9%97%BB.png" group-title="🇹🇼台湾新闻📰",TVBS新闻
 http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
+#EXTINF:-1 tvg-id="370172" tvg-name="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇹🇼台湾新闻📰",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 tvg-id="370172" tvg-name="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇹🇼台湾新闻📰",民视新闻
+http://74.91.26.218:82/live/ftvnews.m3u8
+#EXTINF:-1 tvg-id="370172" tvg-name="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇹🇼台湾新闻📰",民视新闻
+https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8
+#EXTINF:-1 tvg-id="东森新闻美洲" tvg-name="东森新闻美洲" group-title="🇹🇼台湾新闻📰",东森新闻美洲
+http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="370170" tvg-name="东森新闻" group-title="🇹🇼台湾新闻📰",东森新闻
 http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 tvg-id="370170" tvg-name="东森新闻" group-title="🇹🇼台湾新闻📰",东森新闻
@@ -224,18 +232,6 @@ http://222.128.55.152:9080/live/fc.m3u8
 http://74.91.26.218:82/live/ttvcj.m3u8
 #EXTINF:-1 tvg-id="456555" tvg-name="三立新闻" group-title="🇹🇼台湾新闻📰",三立新闻
 http://zb.xmzb.xyz/123.php?id=%E2%9A%BD%E9%A9%AC%E4%B8%8Aoppppp%E4%B8%80%E4%B8%89%E7%AB%8BINEW
-#EXTINF:-1 tvg-id="东森新闻美洲" tvg-name="东森新闻美洲" group-title="🇹🇼台湾新闻📰",东森新闻美洲
-http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 tvg-id="370172" tvg-name="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇹🇼台湾新闻📰",民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-id="370172" tvg-name="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇹🇼台湾新闻📰",民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 tvg-id="370172" tvg-name="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇹🇼台湾新闻📰",民视新闻
-http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 tvg-id="370172" tvg-name="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇹🇼台湾新闻📰",民视新闻
-https://stream1.freetv.fun/min-shi-xin-wen-2.ctv
-#EXTINF:-1 tvg-id="370172" tvg-name="民视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🇹🇼台湾新闻📰",民视新闻
-https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8
 #EXTINF:-1 tvg-id="457336" tvg-name="台视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="🇹🇼台湾新闻📰",台视新闻
 http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-id="457336" tvg-name="台视新闻" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="🇹🇼台湾新闻📰",台视新闻
