@@ -317,6 +317,8 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="6110" tvg-name="Bloomberg" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/BloombergTV.png" group-title="🇺🇸美国新闻📰",Bloomberg
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 #EXTINF:-1 tvg-id="YahooFinance" tvg-name="Yahoo Finance" group-title="🇺🇸美国新闻📰",Yahoo Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance" tvg-name="Yahoo Finance" group-title="🇺🇸美国新闻📰",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals" tvg-name="Bloomberg Originals" group-title="🇺🇸美国新闻📰",Bloomberg Originals
 https://bloomberg.com/media-manifest/streams/qt.m3u8
